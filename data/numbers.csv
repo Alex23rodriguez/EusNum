@@ -1,0 +1,1001 @@
+number,word
+0,zero
+1,bat
+2,bi
+3,hiru
+4,lau
+5,bost
+6,sei
+7,zazpi
+8,zortzi
+9,bederatzi
+10,hamar
+11,hamaika
+12,hamabi
+13,hamahiru
+14,hamalau
+15,hamabost
+16,hamasei
+17,hamazazpi
+18,hamazortzi
+19,hemeretzi
+20,hogei
+21,hogeita bat
+22,hogeita bi
+23,hogeita hiru
+24,hogeita lau
+25,hogeita bost
+26,hogeita sei
+27,hogeita zazpi
+28,hogeita zortzi
+29,hogeita bederatzi
+30,hogeita hamar
+31,hogeita hamaika
+32,hogeita hamabi
+33,hogeita hamahiru
+34,hogeita hamalau
+35,hogeita hamabost
+36,hogeita hamasei
+37,hogeita hamazazpi
+38,hogeita hamazortzi
+39,hogeita hemeretzi
+40,berrogei
+41,berrogeita bat
+42,berrogeita bi
+43,berrogeita hiru
+44,berrogeita lau
+45,berrogeita bost
+46,berrogeita sei
+47,berrogeita zazpi
+48,berrogeita zortzi
+49,berrogeita bederatzi
+50,berrogeita hamar
+51,berrogeita hamaika
+52,berrogeita hamabi
+53,berrogeita hamahiru
+54,berrogeita hamalau
+55,berrogeita hamabost
+56,berrogeita hamasei
+57,berrogeita hamazazpi
+58,berrogeita hamazortzi
+59,berrogeita hemeretzi
+60,hirurogei
+61,hirurogeita bat
+62,hirurogeita bi
+63,hirurogeita hiru
+64,hirurogeita lau
+65,hirurogeita bost
+66,hirurogeita sei
+67,hirurogeita zazpi
+68,hirurogeita zortzi
+69,hirurogeita bederatzi
+70,hirurogeita hamar
+71,hirurogeita hamaika
+72,hirurogeita hamabi
+73,hirurogeita hamahiru
+74,hirurogeita hamalau
+75,hirurogeita hamabost
+76,hirurogeita hamasei
+77,hirurogeita hamazazpi
+78,hirurogeita hamazortzi
+79,hirurogeita hemeretzi
+80,laurogei
+81,laurogeita bat
+82,laurogeita bi
+83,laurogeita hiru
+84,laurogeita lau
+85,laurogeita bost
+86,laurogeita sei
+87,laurogeita zazpi
+88,laurogeita zortzi
+89,laurogeita bederatzi
+90,laurogeita hamar
+91,laurogeita hamaika
+92,laurogeita hamabi
+93,laurogeita hamahiru
+94,laurogeita hamalau
+95,laurogeita hamabost
+96,laurogeita hamasei
+97,laurogeita hamazazpi
+98,laurogeita hamazortzi
+99,laurogeita hemeretzi
+100,ehun
+101,ehun eta bat
+102,ehun eta bi
+103,ehun eta hiru
+104,ehun eta lau
+105,ehun eta bost
+106,ehun eta sei
+107,ehun eta zazpi
+108,ehun eta zortzi
+109,ehun eta bederatzi
+110,ehun eta hamar
+111,ehun eta hamaika
+112,ehun eta hamabi
+113,ehun eta hamahiru
+114,ehun eta hamalau
+115,ehun eta hamabost
+116,ehun eta hamasei
+117,ehun eta hamazazpi
+118,ehun eta hamazortzi
+119,ehun eta hemeretzi
+120,ehun eta hogei
+121,ehun eta hogeita bat
+122,ehun eta hogeita bi
+123,ehun eta hogeita hiru
+124,ehun eta hogeita lau
+125,ehun eta hogeita bost
+126,ehun eta hogeita sei
+127,ehun eta hogeita zazpi
+128,ehun eta hogeita zortzi
+129,ehun eta hogeita bederatzi
+130,ehun eta hogeita hamar
+131,ehun eta hogeita hamaika
+132,ehun eta hogeita hamabi
+133,ehun eta hogeita hamahiru
+134,ehun eta hogeita hamalau
+135,ehun eta hogeita hamabost
+136,ehun eta hogeita hamasei
+137,ehun eta hogeita hamazazpi
+138,ehun eta hogeita hamazortzi
+139,ehun eta hogeita hemeretzi
+140,ehun eta berrogei
+141,ehun eta berrogeita bat
+142,ehun eta berrogeita bi
+143,ehun eta berrogeita hiru
+144,ehun eta berrogeita lau
+145,ehun eta berrogeita bost
+146,ehun eta berrogeita sei
+147,ehun eta berrogeita zazpi
+148,ehun eta berrogeita zortzi
+149,ehun eta berrogeita bederatzi
+150,ehun eta berrogeita hamar
+151,ehun eta berrogeita hamaika
+152,ehun eta berrogeita hamabi
+153,ehun eta berrogeita hamahiru
+154,ehun eta berrogeita hamalau
+155,ehun eta berrogeita hamabost
+156,ehun eta berrogeita hamasei
+157,ehun eta berrogeita hamazazpi
+158,ehun eta berrogeita hamazortzi
+159,ehun eta berrogeita hemeretzi
+160,ehun eta hirurogei
+161,ehun eta hirurogeita bat
+162,ehun eta hirurogeita bi
+163,ehun eta hirurogeita hiru
+164,ehun eta hirurogeita lau
+165,ehun eta hirurogeita bost
+166,ehun eta hirurogeita sei
+167,ehun eta hirurogeita zazpi
+168,ehun eta hirurogeita zortzi
+169,ehun eta hirurogeita bederatzi
+170,ehun eta hirurogeita hamar
+171,ehun eta hirurogeita hamaika
+172,ehun eta hirurogeita hamabi
+173,ehun eta hirurogeita hamahiru
+174,ehun eta hirurogeita hamalau
+175,ehun eta hirurogeita hamabost
+176,ehun eta hirurogeita hamasei
+177,ehun eta hirurogeita hamazazpi
+178,ehun eta hirurogeita hamazortzi
+179,ehun eta hirurogeita hemeretzi
+180,ehun eta laurogei
+181,ehun eta laurogeita bat
+182,ehun eta laurogeita bi
+183,ehun eta laurogeita hiru
+184,ehun eta laurogeita lau
+185,ehun eta laurogeita bost
+186,ehun eta laurogeita sei
+187,ehun eta laurogeita zazpi
+188,ehun eta laurogeita zortzi
+189,ehun eta laurogeita bederatzi
+190,ehun eta laurogeita hamar
+191,ehun eta laurogeita hamaika
+192,ehun eta laurogeita hamabi
+193,ehun eta laurogeita hamahiru
+194,ehun eta laurogeita hamalau
+195,ehun eta laurogeita hamabost
+196,ehun eta laurogeita hamasei
+197,ehun eta laurogeita hamazazpi
+198,ehun eta laurogeita hamazortzi
+199,ehun eta laurogeita hemeretzi
+200,berrehun
+201,berrehun eta bat
+202,berrehun eta bi
+203,berrehun eta hiru
+204,berrehun eta lau
+205,berrehun eta bost
+206,berrehun eta sei
+207,berrehun eta zazpi
+208,berrehun eta zortzi
+209,berrehun eta bederatzi
+210,berrehun eta hamar
+211,berrehun eta hamaika
+212,berrehun eta hamabi
+213,berrehun eta hamahiru
+214,berrehun eta hamalau
+215,berrehun eta hamabost
+216,berrehun eta hamasei
+217,berrehun eta hamazazpi
+218,berrehun eta hamazortzi
+219,berrehun eta hemeretzi
+220,berrehun eta hogei
+221,berrehun eta hogeita bat
+222,berrehun eta hogeita bi
+223,berrehun eta hogeita hiru
+224,berrehun eta hogeita lau
+225,berrehun eta hogeita bost
+226,berrehun eta hogeita sei
+227,berrehun eta hogeita zazpi
+228,berrehun eta hogeita zortzi
+229,berrehun eta hogeita bederatzi
+230,berrehun eta hogeita hamar
+231,berrehun eta hogeita hamaika
+232,berrehun eta hogeita hamabi
+233,berrehun eta hogeita hamahiru
+234,berrehun eta hogeita hamalau
+235,berrehun eta hogeita hamabost
+236,berrehun eta hogeita hamasei
+237,berrehun eta hogeita hamazazpi
+238,berrehun eta hogeita hamazortzi
+239,berrehun eta hogeita hemeretzi
+240,berrehun eta berrogei
+241,berrehun eta berrogeita bat
+242,berrehun eta berrogeita bi
+243,berrehun eta berrogeita hiru
+244,berrehun eta berrogeita lau
+245,berrehun eta berrogeita bost
+246,berrehun eta berrogeita sei
+247,berrehun eta berrogeita zazpi
+248,berrehun eta berrogeita zortzi
+249,berrehun eta berrogeita bederatzi
+250,berrehun eta berrogeita hamar
+251,berrehun eta berrogeita hamaika
+252,berrehun eta berrogeita hamabi
+253,berrehun eta berrogeita hamahiru
+254,berrehun eta berrogeita hamalau
+255,berrehun eta berrogeita hamabost
+256,berrehun eta berrogeita hamasei
+257,berrehun eta berrogeita hamazazpi
+258,berrehun eta berrogeita hamazortzi
+259,berrehun eta berrogeita hemeretzi
+260,berrehun eta hirurogei
+261,berrehun eta hirurogeita bat
+262,berrehun eta hirurogeita bi
+263,berrehun eta hirurogeita hiru
+264,berrehun eta hirurogeita lau
+265,berrehun eta hirurogeita bost
+266,berrehun eta hirurogeita sei
+267,berrehun eta hirurogeita zazpi
+268,berrehun eta hirurogeita zortzi
+269,berrehun eta hirurogeita bederatzi
+270,berrehun eta hirurogeita hamar
+271,berrehun eta hirurogeita hamaika
+272,berrehun eta hirurogeita hamabi
+273,berrehun eta hirurogeita hamahiru
+274,berrehun eta hirurogeita hamalau
+275,berrehun eta hirurogeita hamabost
+276,berrehun eta hirurogeita hamasei
+277,berrehun eta hirurogeita hamazazpi
+278,berrehun eta hirurogeita hamazortzi
+279,berrehun eta hirurogeita hemeretzi
+280,berrehun eta laurogei
+281,berrehun eta laurogeita bat
+282,berrehun eta laurogeita bi
+283,berrehun eta laurogeita hiru
+284,berrehun eta laurogeita lau
+285,berrehun eta laurogeita bost
+286,berrehun eta laurogeita sei
+287,berrehun eta laurogeita zazpi
+288,berrehun eta laurogeita zortzi
+289,berrehun eta laurogeita bederatzi
+290,berrehun eta laurogeita hamar
+291,berrehun eta laurogeita hamaika
+292,berrehun eta laurogeita hamabi
+293,berrehun eta laurogeita hamahiru
+294,berrehun eta laurogeita hamalau
+295,berrehun eta laurogeita hamabost
+296,berrehun eta laurogeita hamasei
+297,berrehun eta laurogeita hamazazpi
+298,berrehun eta laurogeita hamazortzi
+299,berrehun eta laurogeita hemeretzi
+300,hirurehun
+301,hirurehun eta bat
+302,hirurehun eta bi
+303,hirurehun eta hiru
+304,hirurehun eta lau
+305,hirurehun eta bost
+306,hirurehun eta sei
+307,hirurehun eta zazpi
+308,hirurehun eta zortzi
+309,hirurehun eta bederatzi
+310,hirurehun eta hamar
+311,hirurehun eta hamaika
+312,hirurehun eta hamabi
+313,hirurehun eta hamahiru
+314,hirurehun eta hamalau
+315,hirurehun eta hamabost
+316,hirurehun eta hamasei
+317,hirurehun eta hamazazpi
+318,hirurehun eta hamazortzi
+319,hirurehun eta hemeretzi
+320,hirurehun eta hogei
+321,hirurehun eta hogeita bat
+322,hirurehun eta hogeita bi
+323,hirurehun eta hogeita hiru
+324,hirurehun eta hogeita lau
+325,hirurehun eta hogeita bost
+326,hirurehun eta hogeita sei
+327,hirurehun eta hogeita zazpi
+328,hirurehun eta hogeita zortzi
+329,hirurehun eta hogeita bederatzi
+330,hirurehun eta hogeita hamar
+331,hirurehun eta hogeita hamaika
+332,hirurehun eta hogeita hamabi
+333,hirurehun eta hogeita hamahiru
+334,hirurehun eta hogeita hamalau
+335,hirurehun eta hogeita hamabost
+336,hirurehun eta hogeita hamasei
+337,hirurehun eta hogeita hamazazpi
+338,hirurehun eta hogeita hamazortzi
+339,hirurehun eta hogeita hemeretzi
+340,hirurehun eta berrogei
+341,hirurehun eta berrogeita bat
+342,hirurehun eta berrogeita bi
+343,hirurehun eta berrogeita hiru
+344,hirurehun eta berrogeita lau
+345,hirurehun eta berrogeita bost
+346,hirurehun eta berrogeita sei
+347,hirurehun eta berrogeita zazpi
+348,hirurehun eta berrogeita zortzi
+349,hirurehun eta berrogeita bederatzi
+350,hirurehun eta berrogeita hamar
+351,hirurehun eta berrogeita hamaika
+352,hirurehun eta berrogeita hamabi
+353,hirurehun eta berrogeita hamahiru
+354,hirurehun eta berrogeita hamalau
+355,hirurehun eta berrogeita hamabost
+356,hirurehun eta berrogeita hamasei
+357,hirurehun eta berrogeita hamazazpi
+358,hirurehun eta berrogeita hamazortzi
+359,hirurehun eta berrogeita hemeretzi
+360,hirurehun eta hirurogei
+361,hirurehun eta hirurogeita bat
+362,hirurehun eta hirurogeita bi
+363,hirurehun eta hirurogeita hiru
+364,hirurehun eta hirurogeita lau
+365,hirurehun eta hirurogeita bost
+366,hirurehun eta hirurogeita sei
+367,hirurehun eta hirurogeita zazpi
+368,hirurehun eta hirurogeita zortzi
+369,hirurehun eta hirurogeita bederatzi
+370,hirurehun eta hirurogeita hamar
+371,hirurehun eta hirurogeita hamaika
+372,hirurehun eta hirurogeita hamabi
+373,hirurehun eta hirurogeita hamahiru
+374,hirurehun eta hirurogeita hamalau
+375,hirurehun eta hirurogeita hamabost
+376,hirurehun eta hirurogeita hamasei
+377,hirurehun eta hirurogeita hamazazpi
+378,hirurehun eta hirurogeita hamazortzi
+379,hirurehun eta hirurogeita hemeretzi
+380,hirurehun eta laurogei
+381,hirurehun eta laurogeita bat
+382,hirurehun eta laurogeita bi
+383,hirurehun eta laurogeita hiru
+384,hirurehun eta laurogeita lau
+385,hirurehun eta laurogeita bost
+386,hirurehun eta laurogeita sei
+387,hirurehun eta laurogeita zazpi
+388,hirurehun eta laurogeita zortzi
+389,hirurehun eta laurogeita bederatzi
+390,hirurehun eta laurogeita hamar
+391,hirurehun eta laurogeita hamaika
+392,hirurehun eta laurogeita hamabi
+393,hirurehun eta laurogeita hamahiru
+394,hirurehun eta laurogeita hamalau
+395,hirurehun eta laurogeita hamabost
+396,hirurehun eta laurogeita hamasei
+397,hirurehun eta laurogeita hamazazpi
+398,hirurehun eta laurogeita hamazortzi
+399,hirurehun eta laurogeita hemeretzi
+400,laurehun
+401,laurehun eta bat
+402,laurehun eta bi
+403,laurehun eta hiru
+404,laurehun eta lau
+405,laurehun eta bost
+406,laurehun eta sei
+407,laurehun eta zazpi
+408,laurehun eta zortzi
+409,laurehun eta bederatzi
+410,laurehun eta hamar
+411,laurehun eta hamaika
+412,laurehun eta hamabi
+413,laurehun eta hamahiru
+414,laurehun eta hamalau
+415,laurehun eta hamabost
+416,laurehun eta hamasei
+417,laurehun eta hamazazpi
+418,laurehun eta hamazortzi
+419,laurehun eta hemeretzi
+420,laurehun eta hogei
+421,laurehun eta hogeita bat
+422,laurehun eta hogeita bi
+423,laurehun eta hogeita hiru
+424,laurehun eta hogeita lau
+425,laurehun eta hogeita bost
+426,laurehun eta hogeita sei
+427,laurehun eta hogeita zazpi
+428,laurehun eta hogeita zortzi
+429,laurehun eta hogeita bederatzi
+430,laurehun eta hogeita hamar
+431,laurehun eta hogeita hamaika
+432,laurehun eta hogeita hamabi
+433,laurehun eta hogeita hamahiru
+434,laurehun eta hogeita hamalau
+435,laurehun eta hogeita hamabost
+436,laurehun eta hogeita hamasei
+437,laurehun eta hogeita hamazazpi
+438,laurehun eta hogeita hamazortzi
+439,laurehun eta hogeita hemeretzi
+440,laurehun eta berrogei
+441,laurehun eta berrogeita bat
+442,laurehun eta berrogeita bi
+443,laurehun eta berrogeita hiru
+444,laurehun eta berrogeita lau
+445,laurehun eta berrogeita bost
+446,laurehun eta berrogeita sei
+447,laurehun eta berrogeita zazpi
+448,laurehun eta berrogeita zortzi
+449,laurehun eta berrogeita bederatzi
+450,laurehun eta berrogeita hamar
+451,laurehun eta berrogeita hamaika
+452,laurehun eta berrogeita hamabi
+453,laurehun eta berrogeita hamahiru
+454,laurehun eta berrogeita hamalau
+455,laurehun eta berrogeita hamabost
+456,laurehun eta berrogeita hamasei
+457,laurehun eta berrogeita hamazazpi
+458,laurehun eta berrogeita hamazortzi
+459,laurehun eta berrogeita hemeretzi
+460,laurehun eta hirurogei
+461,laurehun eta hirurogeita bat
+462,laurehun eta hirurogeita bi
+463,laurehun eta hirurogeita hiru
+464,laurehun eta hirurogeita lau
+465,laurehun eta hirurogeita bost
+466,laurehun eta hirurogeita sei
+467,laurehun eta hirurogeita zazpi
+468,laurehun eta hirurogeita zortzi
+469,laurehun eta hirurogeita bederatzi
+470,laurehun eta hirurogeita hamar
+471,laurehun eta hirurogeita hamaika
+472,laurehun eta hirurogeita hamabi
+473,laurehun eta hirurogeita hamahiru
+474,laurehun eta hirurogeita hamalau
+475,laurehun eta hirurogeita hamabost
+476,laurehun eta hirurogeita hamasei
+477,laurehun eta hirurogeita hamazazpi
+478,laurehun eta hirurogeita hamazortzi
+479,laurehun eta hirurogeita hemeretzi
+480,laurehun eta laurogei
+481,laurehun eta laurogeita bat
+482,laurehun eta laurogeita bi
+483,laurehun eta laurogeita hiru
+484,laurehun eta laurogeita lau
+485,laurehun eta laurogeita bost
+486,laurehun eta laurogeita sei
+487,laurehun eta laurogeita zazpi
+488,laurehun eta laurogeita zortzi
+489,laurehun eta laurogeita bederatzi
+490,laurehun eta laurogeita hamar
+491,laurehun eta laurogeita hamaika
+492,laurehun eta laurogeita hamabi
+493,laurehun eta laurogeita hamahiru
+494,laurehun eta laurogeita hamalau
+495,laurehun eta laurogeita hamabost
+496,laurehun eta laurogeita hamasei
+497,laurehun eta laurogeita hamazazpi
+498,laurehun eta laurogeita hamazortzi
+499,laurehun eta laurogeita hemeretzi
+500,bostehun
+501,bostehun eta bat
+502,bostehun eta bi
+503,bostehun eta hiru
+504,bostehun eta lau
+505,bostehun eta bost
+506,bostehun eta sei
+507,bostehun eta zazpi
+508,bostehun eta zortzi
+509,bostehun eta bederatzi
+510,bostehun eta hamar
+511,bostehun eta hamaika
+512,bostehun eta hamabi
+513,bostehun eta hamahiru
+514,bostehun eta hamalau
+515,bostehun eta hamabost
+516,bostehun eta hamasei
+517,bostehun eta hamazazpi
+518,bostehun eta hamazortzi
+519,bostehun eta hemeretzi
+520,bostehun eta hogei
+521,bostehun eta hogeita bat
+522,bostehun eta hogeita bi
+523,bostehun eta hogeita hiru
+524,bostehun eta hogeita lau
+525,bostehun eta hogeita bost
+526,bostehun eta hogeita sei
+527,bostehun eta hogeita zazpi
+528,bostehun eta hogeita zortzi
+529,bostehun eta hogeita bederatzi
+530,bostehun eta hogeita hamar
+531,bostehun eta hogeita hamaika
+532,bostehun eta hogeita hamabi
+533,bostehun eta hogeita hamahiru
+534,bostehun eta hogeita hamalau
+535,bostehun eta hogeita hamabost
+536,bostehun eta hogeita hamasei
+537,bostehun eta hogeita hamazazpi
+538,bostehun eta hogeita hamazortzi
+539,bostehun eta hogeita hemeretzi
+540,bostehun eta berrogei
+541,bostehun eta berrogeita bat
+542,bostehun eta berrogeita bi
+543,bostehun eta berrogeita hiru
+544,bostehun eta berrogeita lau
+545,bostehun eta berrogeita bost
+546,bostehun eta berrogeita sei
+547,bostehun eta berrogeita zazpi
+548,bostehun eta berrogeita zortzi
+549,bostehun eta berrogeita bederatzi
+550,bostehun eta berrogeita hamar
+551,bostehun eta berrogeita hamaika
+552,bostehun eta berrogeita hamabi
+553,bostehun eta berrogeita hamahiru
+554,bostehun eta berrogeita hamalau
+555,bostehun eta berrogeita hamabost
+556,bostehun eta berrogeita hamasei
+557,bostehun eta berrogeita hamazazpi
+558,bostehun eta berrogeita hamazortzi
+559,bostehun eta berrogeita hemeretzi
+560,bostehun eta hirurogei
+561,bostehun eta hirurogeita bat
+562,bostehun eta hirurogeita bi
+563,bostehun eta hirurogeita hiru
+564,bostehun eta hirurogeita lau
+565,bostehun eta hirurogeita bost
+566,bostehun eta hirurogeita sei
+567,bostehun eta hirurogeita zazpi
+568,bostehun eta hirurogeita zortzi
+569,bostehun eta hirurogeita bederatzi
+570,bostehun eta hirurogeita hamar
+571,bostehun eta hirurogeita hamaika
+572,bostehun eta hirurogeita hamabi
+573,bostehun eta hirurogeita hamahiru
+574,bostehun eta hirurogeita hamalau
+575,bostehun eta hirurogeita hamabost
+576,bostehun eta hirurogeita hamasei
+577,bostehun eta hirurogeita hamazazpi
+578,bostehun eta hirurogeita hamazortzi
+579,bostehun eta hirurogeita hemeretzi
+580,bostehun eta laurogei
+581,bostehun eta laurogeita bat
+582,bostehun eta laurogeita bi
+583,bostehun eta laurogeita hiru
+584,bostehun eta laurogeita lau
+585,bostehun eta laurogeita bost
+586,bostehun eta laurogeita sei
+587,bostehun eta laurogeita zazpi
+588,bostehun eta laurogeita zortzi
+589,bostehun eta laurogeita bederatzi
+590,bostehun eta laurogeita hamar
+591,bostehun eta laurogeita hamaika
+592,bostehun eta laurogeita hamabi
+593,bostehun eta laurogeita hamahiru
+594,bostehun eta laurogeita hamalau
+595,bostehun eta laurogeita hamabost
+596,bostehun eta laurogeita hamasei
+597,bostehun eta laurogeita hamazazpi
+598,bostehun eta laurogeita hamazortzi
+599,bostehun eta laurogeita hemeretzi
+600,seiehun
+601,seiehun eta bat
+602,seiehun eta bi
+603,seiehun eta hiru
+604,seiehun eta lau
+605,seiehun eta bost
+606,seiehun eta sei
+607,seiehun eta zazpi
+608,seiehun eta zortzi
+609,seiehun eta bederatzi
+610,seiehun eta hamar
+611,seiehun eta hamaika
+612,seiehun eta hamabi
+613,seiehun eta hamahiru
+614,seiehun eta hamalau
+615,seiehun eta hamabost
+616,seiehun eta hamasei
+617,seiehun eta hamazazpi
+618,seiehun eta hamazortzi
+619,seiehun eta hemeretzi
+620,seiehun eta hogei
+621,seiehun eta hogeita bat
+622,seiehun eta hogeita bi
+623,seiehun eta hogeita hiru
+624,seiehun eta hogeita lau
+625,seiehun eta hogeita bost
+626,seiehun eta hogeita sei
+627,seiehun eta hogeita zazpi
+628,seiehun eta hogeita zortzi
+629,seiehun eta hogeita bederatzi
+630,seiehun eta hogeita hamar
+631,seiehun eta hogeita hamaika
+632,seiehun eta hogeita hamabi
+633,seiehun eta hogeita hamahiru
+634,seiehun eta hogeita hamalau
+635,seiehun eta hogeita hamabost
+636,seiehun eta hogeita hamasei
+637,seiehun eta hogeita hamazazpi
+638,seiehun eta hogeita hamazortzi
+639,seiehun eta hogeita hemeretzi
+640,seiehun eta berrogei
+641,seiehun eta berrogeita bat
+642,seiehun eta berrogeita bi
+643,seiehun eta berrogeita hiru
+644,seiehun eta berrogeita lau
+645,seiehun eta berrogeita bost
+646,seiehun eta berrogeita sei
+647,seiehun eta berrogeita zazpi
+648,seiehun eta berrogeita zortzi
+649,seiehun eta berrogeita bederatzi
+650,seiehun eta berrogeita hamar
+651,seiehun eta berrogeita hamaika
+652,seiehun eta berrogeita hamabi
+653,seiehun eta berrogeita hamahiru
+654,seiehun eta berrogeita hamalau
+655,seiehun eta berrogeita hamabost
+656,seiehun eta berrogeita hamasei
+657,seiehun eta berrogeita hamazazpi
+658,seiehun eta berrogeita hamazortzi
+659,seiehun eta berrogeita hemeretzi
+660,seiehun eta hirurogei
+661,seiehun eta hirurogeita bat
+662,seiehun eta hirurogeita bi
+663,seiehun eta hirurogeita hiru
+664,seiehun eta hirurogeita lau
+665,seiehun eta hirurogeita bost
+666,seiehun eta hirurogeita sei
+667,seiehun eta hirurogeita zazpi
+668,seiehun eta hirurogeita zortzi
+669,seiehun eta hirurogeita bederatzi
+670,seiehun eta hirurogeita hamar
+671,seiehun eta hirurogeita hamaika
+672,seiehun eta hirurogeita hamabi
+673,seiehun eta hirurogeita hamahiru
+674,seiehun eta hirurogeita hamalau
+675,seiehun eta hirurogeita hamabost
+676,seiehun eta hirurogeita hamasei
+677,seiehun eta hirurogeita hamazazpi
+678,seiehun eta hirurogeita hamazortzi
+679,seiehun eta hirurogeita hemeretzi
+680,seiehun eta laurogei
+681,seiehun eta laurogeita bat
+682,seiehun eta laurogeita bi
+683,seiehun eta laurogeita hiru
+684,seiehun eta laurogeita lau
+685,seiehun eta laurogeita bost
+686,seiehun eta laurogeita sei
+687,seiehun eta laurogeita zazpi
+688,seiehun eta laurogeita zortzi
+689,seiehun eta laurogeita bederatzi
+690,seiehun eta laurogeita hamar
+691,seiehun eta laurogeita hamaika
+692,seiehun eta laurogeita hamabi
+693,seiehun eta laurogeita hamahiru
+694,seiehun eta laurogeita hamalau
+695,seiehun eta laurogeita hamabost
+696,seiehun eta laurogeita hamasei
+697,seiehun eta laurogeita hamazazpi
+698,seiehun eta laurogeita hamazortzi
+699,seiehun eta laurogeita hemeretzi
+700,zazpiehun
+701,zazpiehun eta bat
+702,zazpiehun eta bi
+703,zazpiehun eta hiru
+704,zazpiehun eta lau
+705,zazpiehun eta bost
+706,zazpiehun eta sei
+707,zazpiehun eta zazpi
+708,zazpiehun eta zortzi
+709,zazpiehun eta bederatzi
+710,zazpiehun eta hamar
+711,zazpiehun eta hamaika
+712,zazpiehun eta hamabi
+713,zazpiehun eta hamahiru
+714,zazpiehun eta hamalau
+715,zazpiehun eta hamabost
+716,zazpiehun eta hamasei
+717,zazpiehun eta hamazazpi
+718,zazpiehun eta hamazortzi
+719,zazpiehun eta hemeretzi
+720,zazpiehun eta hogei
+721,zazpiehun eta hogeita bat
+722,zazpiehun eta hogeita bi
+723,zazpiehun eta hogeita hiru
+724,zazpiehun eta hogeita lau
+725,zazpiehun eta hogeita bost
+726,zazpiehun eta hogeita sei
+727,zazpiehun eta hogeita zazpi
+728,zazpiehun eta hogeita zortzi
+729,zazpiehun eta hogeita bederatzi
+730,zazpiehun eta hogeita hamar
+731,zazpiehun eta hogeita hamaika
+732,zazpiehun eta hogeita hamabi
+733,zazpiehun eta hogeita hamahiru
+734,zazpiehun eta hogeita hamalau
+735,zazpiehun eta hogeita hamabost
+736,zazpiehun eta hogeita hamasei
+737,zazpiehun eta hogeita hamazazpi
+738,zazpiehun eta hogeita hamazortzi
+739,zazpiehun eta hogeita hemeretzi
+740,zazpiehun eta berrogei
+741,zazpiehun eta berrogeita bat
+742,zazpiehun eta berrogeita bi
+743,zazpiehun eta berrogeita hiru
+744,zazpiehun eta berrogeita lau
+745,zazpiehun eta berrogeita bost
+746,zazpiehun eta berrogeita sei
+747,zazpiehun eta berrogeita zazpi
+748,zazpiehun eta berrogeita zortzi
+749,zazpiehun eta berrogeita bederatzi
+750,zazpiehun eta berrogeita hamar
+751,zazpiehun eta berrogeita hamaika
+752,zazpiehun eta berrogeita hamabi
+753,zazpiehun eta berrogeita hamahiru
+754,zazpiehun eta berrogeita hamalau
+755,zazpiehun eta berrogeita hamabost
+756,zazpiehun eta berrogeita hamasei
+757,zazpiehun eta berrogeita hamazazpi
+758,zazpiehun eta berrogeita hamazortzi
+759,zazpiehun eta berrogeita hemeretzi
+760,zazpiehun eta hirurogei
+761,zazpiehun eta hirurogeita bat
+762,zazpiehun eta hirurogeita bi
+763,zazpiehun eta hirurogeita hiru
+764,zazpiehun eta hirurogeita lau
+765,zazpiehun eta hirurogeita bost
+766,zazpiehun eta hirurogeita sei
+767,zazpiehun eta hirurogeita zazpi
+768,zazpiehun eta hirurogeita zortzi
+769,zazpiehun eta hirurogeita bederatzi
+770,zazpiehun eta hirurogeita hamar
+771,zazpiehun eta hirurogeita hamaika
+772,zazpiehun eta hirurogeita hamabi
+773,zazpiehun eta hirurogeita hamahiru
+774,zazpiehun eta hirurogeita hamalau
+775,zazpiehun eta hirurogeita hamabost
+776,zazpiehun eta hirurogeita hamasei
+777,zazpiehun eta hirurogeita hamazazpi
+778,zazpiehun eta hirurogeita hamazortzi
+779,zazpiehun eta hirurogeita hemeretzi
+780,zazpiehun eta laurogei
+781,zazpiehun eta laurogeita bat
+782,zazpiehun eta laurogeita bi
+783,zazpiehun eta laurogeita hiru
+784,zazpiehun eta laurogeita lau
+785,zazpiehun eta laurogeita bost
+786,zazpiehun eta laurogeita sei
+787,zazpiehun eta laurogeita zazpi
+788,zazpiehun eta laurogeita zortzi
+789,zazpiehun eta laurogeita bederatzi
+790,zazpiehun eta laurogeita hamar
+791,zazpiehun eta laurogeita hamaika
+792,zazpiehun eta laurogeita hamabi
+793,zazpiehun eta laurogeita hamahiru
+794,zazpiehun eta laurogeita hamalau
+795,zazpiehun eta laurogeita hamabost
+796,zazpiehun eta laurogeita hamasei
+797,zazpiehun eta laurogeita hamazazpi
+798,zazpiehun eta laurogeita hamazortzi
+799,zazpiehun eta laurogeita hemeretzi
+800,zortziehun
+801,zortziehun eta bat
+802,zortziehun eta bi
+803,zortziehun eta hiru
+804,zortziehun eta lau
+805,zortziehun eta bost
+806,zortziehun eta sei
+807,zortziehun eta zazpi
+808,zortziehun eta zortzi
+809,zortziehun eta bederatzi
+810,zortziehun eta hamar
+811,zortziehun eta hamaika
+812,zortziehun eta hamabi
+813,zortziehun eta hamahiru
+814,zortziehun eta hamalau
+815,zortziehun eta hamabost
+816,zortziehun eta hamasei
+817,zortziehun eta hamazazpi
+818,zortziehun eta hamazortzi
+819,zortziehun eta hemeretzi
+820,zortziehun eta hogei
+821,zortziehun eta hogeita bat
+822,zortziehun eta hogeita bi
+823,zortziehun eta hogeita hiru
+824,zortziehun eta hogeita lau
+825,zortziehun eta hogeita bost
+826,zortziehun eta hogeita sei
+827,zortziehun eta hogeita zazpi
+828,zortziehun eta hogeita zortzi
+829,zortziehun eta hogeita bederatzi
+830,zortziehun eta hogeita hamar
+831,zortziehun eta hogeita hamaika
+832,zortziehun eta hogeita hamabi
+833,zortziehun eta hogeita hamahiru
+834,zortziehun eta hogeita hamalau
+835,zortziehun eta hogeita hamabost
+836,zortziehun eta hogeita hamasei
+837,zortziehun eta hogeita hamazazpi
+838,zortziehun eta hogeita hamazortzi
+839,zortziehun eta hogeita hemeretzi
+840,zortziehun eta berrogei
+841,zortziehun eta berrogeita bat
+842,zortziehun eta berrogeita bi
+843,zortziehun eta berrogeita hiru
+844,zortziehun eta berrogeita lau
+845,zortziehun eta berrogeita bost
+846,zortziehun eta berrogeita sei
+847,zortziehun eta berrogeita zazpi
+848,zortziehun eta berrogeita zortzi
+849,zortziehun eta berrogeita bederatzi
+850,zortziehun eta berrogeita hamar
+851,zortziehun eta berrogeita hamaika
+852,zortziehun eta berrogeita hamabi
+853,zortziehun eta berrogeita hamahiru
+854,zortziehun eta berrogeita hamalau
+855,zortziehun eta berrogeita hamabost
+856,zortziehun eta berrogeita hamasei
+857,zortziehun eta berrogeita hamazazpi
+858,zortziehun eta berrogeita hamazortzi
+859,zortziehun eta berrogeita hemeretzi
+860,zortziehun eta hirurogei
+861,zortziehun eta hirurogeita bat
+862,zortziehun eta hirurogeita bi
+863,zortziehun eta hirurogeita hiru
+864,zortziehun eta hirurogeita lau
+865,zortziehun eta hirurogeita bost
+866,zortziehun eta hirurogeita sei
+867,zortziehun eta hirurogeita zazpi
+868,zortziehun eta hirurogeita zortzi
+869,zortziehun eta hirurogeita bederatzi
+870,zortziehun eta hirurogeita hamar
+871,zortziehun eta hirurogeita hamaika
+872,zortziehun eta hirurogeita hamabi
+873,zortziehun eta hirurogeita hamahiru
+874,zortziehun eta hirurogeita hamalau
+875,zortziehun eta hirurogeita hamabost
+876,zortziehun eta hirurogeita hamasei
+877,zortziehun eta hirurogeita hamazazpi
+878,zortziehun eta hirurogeita hamazortzi
+879,zortziehun eta hirurogeita hemeretzi
+880,zortziehun eta laurogei
+881,zortziehun eta laurogeita bat
+882,zortziehun eta laurogeita bi
+883,zortziehun eta laurogeita hiru
+884,zortziehun eta laurogeita lau
+885,zortziehun eta laurogeita bost
+886,zortziehun eta laurogeita sei
+887,zortziehun eta laurogeita zazpi
+888,zortziehun eta laurogeita zortzi
+889,zortziehun eta laurogeita bederatzi
+890,zortziehun eta laurogeita hamar
+891,zortziehun eta laurogeita hamaika
+892,zortziehun eta laurogeita hamabi
+893,zortziehun eta laurogeita hamahiru
+894,zortziehun eta laurogeita hamalau
+895,zortziehun eta laurogeita hamabost
+896,zortziehun eta laurogeita hamasei
+897,zortziehun eta laurogeita hamazazpi
+898,zortziehun eta laurogeita hamazortzi
+899,zortziehun eta laurogeita hemeretzi
+900,bederatziehun
+901,bederatziehun eta bat
+902,bederatziehun eta bi
+903,bederatziehun eta hiru
+904,bederatziehun eta lau
+905,bederatziehun eta bost
+906,bederatziehun eta sei
+907,bederatziehun eta zazpi
+908,bederatziehun eta zortzi
+909,bederatziehun eta bederatzi
+910,bederatziehun eta hamar
+911,bederatziehun eta hamaika
+912,bederatziehun eta hamabi
+913,bederatziehun eta hamahiru
+914,bederatziehun eta hamalau
+915,bederatziehun eta hamabost
+916,bederatziehun eta hamasei
+917,bederatziehun eta hamazazpi
+918,bederatziehun eta hamazortzi
+919,bederatziehun eta hemeretzi
+920,bederatziehun eta hogei
+921,bederatziehun eta hogeita bat
+922,bederatziehun eta hogeita bi
+923,bederatziehun eta hogeita hiru
+924,bederatziehun eta hogeita lau
+925,bederatziehun eta hogeita bost
+926,bederatziehun eta hogeita sei
+927,bederatziehun eta hogeita zazpi
+928,bederatziehun eta hogeita zortzi
+929,bederatziehun eta hogeita bederatzi
+930,bederatziehun eta hogeita hamar
+931,bederatziehun eta hogeita hamaika
+932,bederatziehun eta hogeita hamabi
+933,bederatziehun eta hogeita hamahiru
+934,bederatziehun eta hogeita hamalau
+935,bederatziehun eta hogeita hamabost
+936,bederatziehun eta hogeita hamasei
+937,bederatziehun eta hogeita hamazazpi
+938,bederatziehun eta hogeita hamazortzi
+939,bederatziehun eta hogeita hemeretzi
+940,bederatziehun eta berrogei
+941,bederatziehun eta berrogeita bat
+942,bederatziehun eta berrogeita bi
+943,bederatziehun eta berrogeita hiru
+944,bederatziehun eta berrogeita lau
+945,bederatziehun eta berrogeita bost
+946,bederatziehun eta berrogeita sei
+947,bederatziehun eta berrogeita zazpi
+948,bederatziehun eta berrogeita zortzi
+949,bederatziehun eta berrogeita bederatzi
+950,bederatziehun eta berrogeita hamar
+951,bederatziehun eta berrogeita hamaika
+952,bederatziehun eta berrogeita hamabi
+953,bederatziehun eta berrogeita hamahiru
+954,bederatziehun eta berrogeita hamalau
+955,bederatziehun eta berrogeita hamabost
+956,bederatziehun eta berrogeita hamasei
+957,bederatziehun eta berrogeita hamazazpi
+958,bederatziehun eta berrogeita hamazortzi
+959,bederatziehun eta berrogeita hemeretzi
+960,bederatziehun eta hirurogei
+961,bederatziehun eta hirurogeita bat
+962,bederatziehun eta hirurogeita bi
+963,bederatziehun eta hirurogeita hiru
+964,bederatziehun eta hirurogeita lau
+965,bederatziehun eta hirurogeita bost
+966,bederatziehun eta hirurogeita sei
+967,bederatziehun eta hirurogeita zazpi
+968,bederatziehun eta hirurogeita zortzi
+969,bederatziehun eta hirurogeita bederatzi
+970,bederatziehun eta hirurogeita hamar
+971,bederatziehun eta hirurogeita hamaika
+972,bederatziehun eta hirurogeita hamabi
+973,bederatziehun eta hirurogeita hamahiru
+974,bederatziehun eta hirurogeita hamalau
+975,bederatziehun eta hirurogeita hamabost
+976,bederatziehun eta hirurogeita hamasei
+977,bederatziehun eta hirurogeita hamazazpi
+978,bederatziehun eta hirurogeita hamazortzi
+979,bederatziehun eta hirurogeita hemeretzi
+980,bederatziehun eta laurogei
+981,bederatziehun eta laurogeita bat
+982,bederatziehun eta laurogeita bi
+983,bederatziehun eta laurogeita hiru
+984,bederatziehun eta laurogeita lau
+985,bederatziehun eta laurogeita bost
+986,bederatziehun eta laurogeita sei
+987,bederatziehun eta laurogeita zazpi
+988,bederatziehun eta laurogeita zortzi
+989,bederatziehun eta laurogeita bederatzi
+990,bederatziehun eta laurogeita hamar
+991,bederatziehun eta laurogeita hamaika
+992,bederatziehun eta laurogeita hamabi
+993,bederatziehun eta laurogeita hamahiru
+994,bederatziehun eta laurogeita hamalau
+995,bederatziehun eta laurogeita hamabost
+996,bederatziehun eta laurogeita hamasei
+997,bederatziehun eta laurogeita hamazazpi
+998,bederatziehun eta laurogeita hamazortzi
+999,bederatziehun eta laurogeita hemeretzi
