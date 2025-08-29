@@ -5,5 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "cligame>=0.2.2",
     "polars>=1.32.3",
 ]
