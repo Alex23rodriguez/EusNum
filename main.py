@@ -1,6 +1,6 @@
 import json
 import os
-from random import choice, random
+from random import choice, randint, random
 
 from cligame import Game
 
@@ -16,7 +16,7 @@ audio_dir = "./audio"
 
 
 # %%
-numbers = list(range(60)) + [60, 80, 100] * 5
+numbers_with_audio = list(range(60)) + [60, 80, 100] * 5
 
 
 # %%
@@ -30,7 +30,7 @@ def rev_map(sentence):
 
 
 def audio_quiz(_):
-    n = choice(numbers)
+    n = choice(numbers_with_audio)
     word = number_to_word(n)
 
     concat_audio_files(
@@ -45,10 +45,10 @@ def audio_quiz(_):
 
 
 def spelling_quiz(_):
-    n = choice(numbers)
+    n = randint(0, 999)
     word = number_to_word(n)
 
-    ans = input(f"Spell the number {n}: ")
+    ans = input(f"Spell {n}: ".ljust(17))
     correct_ans = word
 
     return ans == correct_ans, f"{correct_ans}"
