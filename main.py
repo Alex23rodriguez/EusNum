@@ -77,6 +77,15 @@ games = {
     "3": mixed_quiz,
 }
 
-mygame = Game(games[input(prompt)])
+chosen_game = input(prompt)
+
+mygame = Game(games[chosen_game])
 mygame.start()
-mygame.save_raw("stats/stats.json")
+
+stats_files = {
+    "1": "stats/spelling.json",
+    "2": "stats/audio.json",
+    "3": "stats/mixed.json",
+}
+
+mygame.save_raw(stats_files[chosen_game])
