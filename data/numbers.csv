@@ -17,7 +17,7 @@ number,word
 15,hamabost
 16,hamasei
 17,hamazazpi
-18,hamazortzi
+18,hemezortzi
 19,hemeretzi
 20,hogei
 21,hogeita bat
@@ -37,7 +37,7 @@ number,word
 35,hogeita hamabost
 36,hogeita hamasei
 37,hogeita hamazazpi
-38,hogeita hamazortzi
+38,hogeita hemezortzi
 39,hogeita hemeretzi
 40,berrogei
 41,berrogeita bat
@@ -57,7 +57,7 @@ number,word
 55,berrogeita hamabost
 56,berrogeita hamasei
 57,berrogeita hamazazpi
-58,berrogeita hamazortzi
+58,berrogeita hemezortzi
 59,berrogeita hemeretzi
 60,hirurogei
 61,hirurogeita bat
@@ -77,7 +77,7 @@ number,word
 75,hirurogeita hamabost
 76,hirurogeita hamasei
 77,hirurogeita hamazazpi
-78,hirurogeita hamazortzi
+78,hirurogeita hemezortzi
 79,hirurogeita hemeretzi
 80,laurogei
 81,laurogeita bat
@@ -97,7 +97,7 @@ number,word
 95,laurogeita hamabost
 96,laurogeita hamasei
 97,laurogeita hamazazpi
-98,laurogeita hamazortzi
+98,laurogeita hemezortzi
 99,laurogeita hemeretzi
 100,ehun
 101,ehun eta bat
@@ -117,7 +117,7 @@ number,word
 115,ehun eta hamabost
 116,ehun eta hamasei
 117,ehun eta hamazazpi
-118,ehun eta hamazortzi
+118,ehun eta hemezortzi
 119,ehun eta hemeretzi
 120,ehun eta hogei
 121,ehun eta hogeita bat
@@ -137,7 +137,7 @@ number,word
 135,ehun eta hogeita hamabost
 136,ehun eta hogeita hamasei
 137,ehun eta hogeita hamazazpi
-138,ehun eta hogeita hamazortzi
+138,ehun eta hogeita hemezortzi
 139,ehun eta hogeita hemeretzi
 140,ehun eta berrogei
 141,ehun eta berrogeita bat
@@ -157,7 +157,7 @@ number,word
 155,ehun eta berrogeita hamabost
 156,ehun eta berrogeita hamasei
 157,ehun eta berrogeita hamazazpi
-158,ehun eta berrogeita hamazortzi
+158,ehun eta berrogeita hemezortzi
 159,ehun eta berrogeita hemeretzi
 160,ehun eta hirurogei
 161,ehun eta hirurogeita bat
@@ -177,7 +177,7 @@ number,word
 175,ehun eta hirurogeita hamabost
 176,ehun eta hirurogeita hamasei
 177,ehun eta hirurogeita hamazazpi
-178,ehun eta hirurogeita hamazortzi
+178,ehun eta hirurogeita hemezortzi
 179,ehun eta hirurogeita hemeretzi
 180,ehun eta laurogei
 181,ehun eta laurogeita bat
@@ -197,7 +197,7 @@ number,word
 195,ehun eta laurogeita hamabost
 196,ehun eta laurogeita hamasei
 197,ehun eta laurogeita hamazazpi
-198,ehun eta laurogeita hamazortzi
+198,ehun eta laurogeita hemezortzi
 199,ehun eta laurogeita hemeretzi
 200,berrehun
 201,berrehun eta bat
@@ -217,7 +217,7 @@ number,word
 215,berrehun eta hamabost
 216,berrehun eta hamasei
 217,berrehun eta hamazazpi
-218,berrehun eta hamazortzi
+218,berrehun eta hemezortzi
 219,berrehun eta hemeretzi
 220,berrehun eta hogei
 221,berrehun eta hogeita bat
@@ -237,7 +237,7 @@ number,word
 235,berrehun eta hogeita hamabost
 236,berrehun eta hogeita hamasei
 237,berrehun eta hogeita hamazazpi
-238,berrehun eta hogeita hamazortzi
+238,berrehun eta hogeita hemezortzi
 239,berrehun eta hogeita hemeretzi
 240,berrehun eta berrogei
 241,berrehun eta berrogeita bat
@@ -257,7 +257,7 @@ number,word
 255,berrehun eta berrogeita hamabost
 256,berrehun eta berrogeita hamasei
 257,berrehun eta berrogeita hamazazpi
-258,berrehun eta berrogeita hamazortzi
+258,berrehun eta berrogeita hemezortzi
 259,berrehun eta berrogeita hemeretzi
 260,berrehun eta hirurogei
 261,berrehun eta hirurogeita bat
@@ -277,7 +277,7 @@ number,word
 275,berrehun eta hirurogeita hamabost
 276,berrehun eta hirurogeita hamasei
 277,berrehun eta hirurogeita hamazazpi
-278,berrehun eta hirurogeita hamazortzi
+278,berrehun eta hirurogeita hemezortzi
 279,berrehun eta hirurogeita hemeretzi
 280,berrehun eta laurogei
 281,berrehun eta laurogeita bat
@@ -297,7 +297,7 @@ number,word
 295,berrehun eta laurogeita hamabost
 296,berrehun eta laurogeita hamasei
 297,berrehun eta laurogeita hamazazpi
-298,berrehun eta laurogeita hamazortzi
+298,berrehun eta laurogeita hemezortzi
 299,berrehun eta laurogeita hemeretzi
 300,hirurehun
 301,hirurehun eta bat
@@ -317,7 +317,7 @@ number,word
 315,hirurehun eta hamabost
 316,hirurehun eta hamasei
 317,hirurehun eta hamazazpi
-318,hirurehun eta hamazortzi
+318,hirurehun eta hemezortzi
 319,hirurehun eta hemeretzi
 320,hirurehun eta hogei
 321,hirurehun eta hogeita bat
@@ -337,7 +337,7 @@ number,word
 335,hirurehun eta hogeita hamabost
 336,hirurehun eta hogeita hamasei
 337,hirurehun eta hogeita hamazazpi
-338,hirurehun eta hogeita hamazortzi
+338,hirurehun eta hogeita hemezortzi
 339,hirurehun eta hogeita hemeretzi
 340,hirurehun eta berrogei
 341,hirurehun eta berrogeita bat
@@ -357,7 +357,7 @@ number,word
 355,hirurehun eta berrogeita hamabost
 356,hirurehun eta berrogeita hamasei
 357,hirurehun eta berrogeita hamazazpi
-358,hirurehun eta berrogeita hamazortzi
+358,hirurehun eta berrogeita hemezortzi
 359,hirurehun eta berrogeita hemeretzi
 360,hirurehun eta hirurogei
 361,hirurehun eta hirurogeita bat
@@ -377,7 +377,7 @@ number,word
 375,hirurehun eta hirurogeita hamabost
 376,hirurehun eta hirurogeita hamasei
 377,hirurehun eta hirurogeita hamazazpi
-378,hirurehun eta hirurogeita hamazortzi
+378,hirurehun eta hirurogeita hemezortzi
 379,hirurehun eta hirurogeita hemeretzi
 380,hirurehun eta laurogei
 381,hirurehun eta laurogeita bat
@@ -397,7 +397,7 @@ number,word
 395,hirurehun eta laurogeita hamabost
 396,hirurehun eta laurogeita hamasei
 397,hirurehun eta laurogeita hamazazpi
-398,hirurehun eta laurogeita hamazortzi
+398,hirurehun eta laurogeita hemezortzi
 399,hirurehun eta laurogeita hemeretzi
 400,laurehun
 401,laurehun eta bat
@@ -417,7 +417,7 @@ number,word
 415,laurehun eta hamabost
 416,laurehun eta hamasei
 417,laurehun eta hamazazpi
-418,laurehun eta hamazortzi
+418,laurehun eta hemezortzi
 419,laurehun eta hemeretzi
 420,laurehun eta hogei
 421,laurehun eta hogeita bat
@@ -437,7 +437,7 @@ number,word
 435,laurehun eta hogeita hamabost
 436,laurehun eta hogeita hamasei
 437,laurehun eta hogeita hamazazpi
-438,laurehun eta hogeita hamazortzi
+438,laurehun eta hogeita hemezortzi
 439,laurehun eta hogeita hemeretzi
 440,laurehun eta berrogei
 441,laurehun eta berrogeita bat
@@ -457,7 +457,7 @@ number,word
 455,laurehun eta berrogeita hamabost
 456,laurehun eta berrogeita hamasei
 457,laurehun eta berrogeita hamazazpi
-458,laurehun eta berrogeita hamazortzi
+458,laurehun eta berrogeita hemezortzi
 459,laurehun eta berrogeita hemeretzi
 460,laurehun eta hirurogei
 461,laurehun eta hirurogeita bat
@@ -477,7 +477,7 @@ number,word
 475,laurehun eta hirurogeita hamabost
 476,laurehun eta hirurogeita hamasei
 477,laurehun eta hirurogeita hamazazpi
-478,laurehun eta hirurogeita hamazortzi
+478,laurehun eta hirurogeita hemezortzi
 479,laurehun eta hirurogeita hemeretzi
 480,laurehun eta laurogei
 481,laurehun eta laurogeita bat
@@ -497,7 +497,7 @@ number,word
 495,laurehun eta laurogeita hamabost
 496,laurehun eta laurogeita hamasei
 497,laurehun eta laurogeita hamazazpi
-498,laurehun eta laurogeita hamazortzi
+498,laurehun eta laurogeita hemezortzi
 499,laurehun eta laurogeita hemeretzi
 500,bostehun
 501,bostehun eta bat
@@ -517,7 +517,7 @@ number,word
 515,bostehun eta hamabost
 516,bostehun eta hamasei
 517,bostehun eta hamazazpi
-518,bostehun eta hamazortzi
+518,bostehun eta hemezortzi
 519,bostehun eta hemeretzi
 520,bostehun eta hogei
 521,bostehun eta hogeita bat
@@ -537,7 +537,7 @@ number,word
 535,bostehun eta hogeita hamabost
 536,bostehun eta hogeita hamasei
 537,bostehun eta hogeita hamazazpi
-538,bostehun eta hogeita hamazortzi
+538,bostehun eta hogeita hemezortzi
 539,bostehun eta hogeita hemeretzi
 540,bostehun eta berrogei
 541,bostehun eta berrogeita bat
@@ -557,7 +557,7 @@ number,word
 555,bostehun eta berrogeita hamabost
 556,bostehun eta berrogeita hamasei
 557,bostehun eta berrogeita hamazazpi
-558,bostehun eta berrogeita hamazortzi
+558,bostehun eta berrogeita hemezortzi
 559,bostehun eta berrogeita hemeretzi
 560,bostehun eta hirurogei
 561,bostehun eta hirurogeita bat
@@ -577,7 +577,7 @@ number,word
 575,bostehun eta hirurogeita hamabost
 576,bostehun eta hirurogeita hamasei
 577,bostehun eta hirurogeita hamazazpi
-578,bostehun eta hirurogeita hamazortzi
+578,bostehun eta hirurogeita hemezortzi
 579,bostehun eta hirurogeita hemeretzi
 580,bostehun eta laurogei
 581,bostehun eta laurogeita bat
@@ -597,7 +597,7 @@ number,word
 595,bostehun eta laurogeita hamabost
 596,bostehun eta laurogeita hamasei
 597,bostehun eta laurogeita hamazazpi
-598,bostehun eta laurogeita hamazortzi
+598,bostehun eta laurogeita hemezortzi
 599,bostehun eta laurogeita hemeretzi
 600,seiehun
 601,seiehun eta bat
@@ -617,7 +617,7 @@ number,word
 615,seiehun eta hamabost
 616,seiehun eta hamasei
 617,seiehun eta hamazazpi
-618,seiehun eta hamazortzi
+618,seiehun eta hemezortzi
 619,seiehun eta hemeretzi
 620,seiehun eta hogei
 621,seiehun eta hogeita bat
@@ -637,7 +637,7 @@ number,word
 635,seiehun eta hogeita hamabost
 636,seiehun eta hogeita hamasei
 637,seiehun eta hogeita hamazazpi
-638,seiehun eta hogeita hamazortzi
+638,seiehun eta hogeita hemezortzi
 639,seiehun eta hogeita hemeretzi
 640,seiehun eta berrogei
 641,seiehun eta berrogeita bat
@@ -657,7 +657,7 @@ number,word
 655,seiehun eta berrogeita hamabost
 656,seiehun eta berrogeita hamasei
 657,seiehun eta berrogeita hamazazpi
-658,seiehun eta berrogeita hamazortzi
+658,seiehun eta berrogeita hemezortzi
 659,seiehun eta berrogeita hemeretzi
 660,seiehun eta hirurogei
 661,seiehun eta hirurogeita bat
@@ -677,7 +677,7 @@ number,word
 675,seiehun eta hirurogeita hamabost
 676,seiehun eta hirurogeita hamasei
 677,seiehun eta hirurogeita hamazazpi
-678,seiehun eta hirurogeita hamazortzi
+678,seiehun eta hirurogeita hemezortzi
 679,seiehun eta hirurogeita hemeretzi
 680,seiehun eta laurogei
 681,seiehun eta laurogeita bat
@@ -697,7 +697,7 @@ number,word
 695,seiehun eta laurogeita hamabost
 696,seiehun eta laurogeita hamasei
 697,seiehun eta laurogeita hamazazpi
-698,seiehun eta laurogeita hamazortzi
+698,seiehun eta laurogeita hemezortzi
 699,seiehun eta laurogeita hemeretzi
 700,zazpiehun
 701,zazpiehun eta bat
@@ -717,7 +717,7 @@ number,word
 715,zazpiehun eta hamabost
 716,zazpiehun eta hamasei
 717,zazpiehun eta hamazazpi
-718,zazpiehun eta hamazortzi
+718,zazpiehun eta hemezortzi
 719,zazpiehun eta hemeretzi
 720,zazpiehun eta hogei
 721,zazpiehun eta hogeita bat
@@ -737,7 +737,7 @@ number,word
 735,zazpiehun eta hogeita hamabost
 736,zazpiehun eta hogeita hamasei
 737,zazpiehun eta hogeita hamazazpi
-738,zazpiehun eta hogeita hamazortzi
+738,zazpiehun eta hogeita hemezortzi
 739,zazpiehun eta hogeita hemeretzi
 740,zazpiehun eta berrogei
 741,zazpiehun eta berrogeita bat
@@ -757,7 +757,7 @@ number,word
 755,zazpiehun eta berrogeita hamabost
 756,zazpiehun eta berrogeita hamasei
 757,zazpiehun eta berrogeita hamazazpi
-758,zazpiehun eta berrogeita hamazortzi
+758,zazpiehun eta berrogeita hemezortzi
 759,zazpiehun eta berrogeita hemeretzi
 760,zazpiehun eta hirurogei
 761,zazpiehun eta hirurogeita bat
@@ -777,7 +777,7 @@ number,word
 775,zazpiehun eta hirurogeita hamabost
 776,zazpiehun eta hirurogeita hamasei
 777,zazpiehun eta hirurogeita hamazazpi
-778,zazpiehun eta hirurogeita hamazortzi
+778,zazpiehun eta hirurogeita hemezortzi
 779,zazpiehun eta hirurogeita hemeretzi
 780,zazpiehun eta laurogei
 781,zazpiehun eta laurogeita bat
@@ -797,7 +797,7 @@ number,word
 795,zazpiehun eta laurogeita hamabost
 796,zazpiehun eta laurogeita hamasei
 797,zazpiehun eta laurogeita hamazazpi
-798,zazpiehun eta laurogeita hamazortzi
+798,zazpiehun eta laurogeita hemezortzi
 799,zazpiehun eta laurogeita hemeretzi
 800,zortziehun
 801,zortziehun eta bat
@@ -817,7 +817,7 @@ number,word
 815,zortziehun eta hamabost
 816,zortziehun eta hamasei
 817,zortziehun eta hamazazpi
-818,zortziehun eta hamazortzi
+818,zortziehun eta hemezortzi
 819,zortziehun eta hemeretzi
 820,zortziehun eta hogei
 821,zortziehun eta hogeita bat
@@ -837,7 +837,7 @@ number,word
 835,zortziehun eta hogeita hamabost
 836,zortziehun eta hogeita hamasei
 837,zortziehun eta hogeita hamazazpi
-838,zortziehun eta hogeita hamazortzi
+838,zortziehun eta hogeita hemezortzi
 839,zortziehun eta hogeita hemeretzi
 840,zortziehun eta berrogei
 841,zortziehun eta berrogeita bat
@@ -857,7 +857,7 @@ number,word
 855,zortziehun eta berrogeita hamabost
 856,zortziehun eta berrogeita hamasei
 857,zortziehun eta berrogeita hamazazpi
-858,zortziehun eta berrogeita hamazortzi
+858,zortziehun eta berrogeita hemezortzi
 859,zortziehun eta berrogeita hemeretzi
 860,zortziehun eta hirurogei
 861,zortziehun eta hirurogeita bat
@@ -877,7 +877,7 @@ number,word
 875,zortziehun eta hirurogeita hamabost
 876,zortziehun eta hirurogeita hamasei
 877,zortziehun eta hirurogeita hamazazpi
-878,zortziehun eta hirurogeita hamazortzi
+878,zortziehun eta hirurogeita hemezortzi
 879,zortziehun eta hirurogeita hemeretzi
 880,zortziehun eta laurogei
 881,zortziehun eta laurogeita bat
@@ -897,7 +897,7 @@ number,word
 895,zortziehun eta laurogeita hamabost
 896,zortziehun eta laurogeita hamasei
 897,zortziehun eta laurogeita hamazazpi
-898,zortziehun eta laurogeita hamazortzi
+898,zortziehun eta laurogeita hemezortzi
 899,zortziehun eta laurogeita hemeretzi
 900,bederatziehun
 901,bederatziehun eta bat
@@ -917,7 +917,7 @@ number,word
 915,bederatziehun eta hamabost
 916,bederatziehun eta hamasei
 917,bederatziehun eta hamazazpi
-918,bederatziehun eta hamazortzi
+918,bederatziehun eta hemezortzi
 919,bederatziehun eta hemeretzi
 920,bederatziehun eta hogei
 921,bederatziehun eta hogeita bat
@@ -937,7 +937,7 @@ number,word
 935,bederatziehun eta hogeita hamabost
 936,bederatziehun eta hogeita hamasei
 937,bederatziehun eta hogeita hamazazpi
-938,bederatziehun eta hogeita hamazortzi
+938,bederatziehun eta hogeita hemezortzi
 939,bederatziehun eta hogeita hemeretzi
 940,bederatziehun eta berrogei
 941,bederatziehun eta berrogeita bat
@@ -957,7 +957,7 @@ number,word
 955,bederatziehun eta berrogeita hamabost
 956,bederatziehun eta berrogeita hamasei
 957,bederatziehun eta berrogeita hamazazpi
-958,bederatziehun eta berrogeita hamazortzi
+958,bederatziehun eta berrogeita hemezortzi
 959,bederatziehun eta berrogeita hemeretzi
 960,bederatziehun eta hirurogei
 961,bederatziehun eta hirurogeita bat
@@ -977,7 +977,7 @@ number,word
 975,bederatziehun eta hirurogeita hamabost
 976,bederatziehun eta hirurogeita hamasei
 977,bederatziehun eta hirurogeita hamazazpi
-978,bederatziehun eta hirurogeita hamazortzi
+978,bederatziehun eta hirurogeita hemezortzi
 979,bederatziehun eta hirurogeita hemeretzi
 980,bederatziehun eta laurogei
 981,bederatziehun eta laurogeita bat
@@ -997,5 +997,5 @@ number,word
 995,bederatziehun eta laurogeita hamabost
 996,bederatziehun eta laurogeita hamasei
 997,bederatziehun eta laurogeita hamazazpi
-998,bederatziehun eta laurogeita hamazortzi
+998,bederatziehun eta laurogeita hemezortzi
 999,bederatziehun eta laurogeita hemeretzi
