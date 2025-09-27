@@ -16,10 +16,6 @@ audio_dir = "./audio"
 
 
 # %%
-numbers_with_audio = list(range(60)) + [60, 80, 100] * 5
-
-
-# %%
 def rev_map(sentence):
     words = sentence.split(" ")
     return [nums[w] for w in words]
@@ -30,7 +26,7 @@ def rev_map(sentence):
 
 
 def audio_quiz(_):
-    n = choice(numbers_with_audio)
+    n = randint(0, 999_999)
     word = number_to_word(n)
 
     concat_audio_files(
