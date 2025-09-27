@@ -13,8 +13,13 @@ unique_words: dict[str, str] = {
 
 def number_to_word(n: int):
     """Converts a number to euskera."""
+    assert n < 1_000_000, f"{n} is too big to convert"
+
     if str(n) in unique_words:
         return unique_words[str(n)]
+
+    if n > 1000:
+        return f"{number_to_word(n // 1000)} mila eta {number_to_word(n % 1000)}"
 
     if n > 100:
         if n % 100 == 0:
@@ -25,6 +30,7 @@ def number_to_word(n: int):
     return unique_words[str(n // 20 * 20) + "_"] + " " + unique_words[str(n % 20)]
 
 
+# %%
 def concat_audio_files(file_names, audio_dir, output_file="tmp/output.wav", ext="wav"):
     """
     Concatenates audio files using ffmpeg.
