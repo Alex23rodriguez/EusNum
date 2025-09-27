@@ -19,7 +19,7 @@ def number_to_word(n: int):
         return unique_words[str(n)]
 
     if n > 1000:
-        return f"{number_to_word(n // 1000)} mila eta {number_to_word(n % 1000)}"
+        return f"{number_to_word(n // 1000)} mila {number_to_word(n % 1000)}"
 
     if n > 100:
         if n % 100 == 0:
