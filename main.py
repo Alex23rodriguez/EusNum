@@ -1,6 +1,6 @@
 import json
 import os
-from random import choice, randint, random
+from random import randint, random
 
 from cligame import Game
 
@@ -12,7 +12,7 @@ with open("data/unique_words.json", "r") as f:
 
 nums = {v: k for k, v in unique_words.items()}
 
-audio_dir = "./audio"
+audio_dir = "./assets"
 
 
 # %%
@@ -20,19 +20,29 @@ def rev_map(sentence):
     words = sentence.split(" ")
     return [nums[w] for w in words]
 
+def audio_segments(n: int):
+    if n == 0:
+        return []
+
+    if n < 1000:
+        return [str(n)]
+
+
+    return [str(n // 1000) + "000"] + audio_segments(n % 1000)
+
 
 # %%
 # Game modes
 
 
 def audio_quiz(_):
-    n = randint(0, 999_999)
+    n = randint(1, 20_000)
     word = number_to_word(n)
 
     concat_audio_files(
-        rev_map(word), audio_dir, output_file="tmp/result.wav", ext="wav"
+        audio_segments(n), audio_dir, output_file="tmp/result.mp3", ext="mp3"
     )
-    os.system("afplay tmp/result.wav")
+    os.system("afplay tmp/result.mp3")
 
     ans = input(f"Which number did you hear? ")
     correct_ans = str(n)
