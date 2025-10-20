@@ -10,6 +10,6 @@ wheels/
 .venv
 
 # other
-tmp/result.wav
+tmp
 stats
 _audio
